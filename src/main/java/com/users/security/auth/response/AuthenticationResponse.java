@@ -1,4 +1,4 @@
-package com.users.security.common.response;
+package com.users.security.auth.response;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
